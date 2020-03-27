@@ -1,0 +1,70 @@
+---
+layout: post
+title: Big Data
+date: 2020-02-18 13:32:20 +0300
+description: 
+img: big-data.jpg # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: [Holidays, Hawaii]
+---
+Dados são criados em diferentes formatos  como e-mails, comentários no Facebook, fotos publicadas em redes sociais e transações.
+
+Existem dados estruturados, semi-estruturados e não-estruturados.
+
+Dados estruturados:
+
+> Bases de dados relacionais (Banco de dados, tabelas em Excel).
+
+Dados semi-estruturados:
+
+>Não possuem uma estrutura pré-definida (representação estrutural heterogênea).
+XML (eXtensible Markup Language).
+    
+Dados não-estruturados:
+
+>Documentos, fotos, vídeos, tweets, comentários em redes sociais, etc.
+ 
+![I and My friends]({{site.baseurl}}/assets/img/noname.png)
+
+Onde armazenar esses dados?
+
+Computação em Nuvem oferece capacidade de processamento e armazenamento conforme a necessidade do usuário, é um modelo que permite um acesso sob demanda via redes de computadores a um conjunto compartilhado de recursos computacionais que podem ser rapidamente provisionado e liberado com um mínimo de esforço administrativo ou interação com o provedor de serviços.
+
+As ferramentas de armazenamento de Big Data também são diferentes das usadas para armazenar dados comuns. Ao contrário dos bancos de dados comuns, os bancos usados no Big Data devem ter elasticidade, pois precisam suportar não só grandes volumes, mas grandes volumes que crescem muito em pouco tempo. Eles também precisam ser flexíveis para aceitar vários tipos de mídias.
+
+![I and My friends]({{site.baseurl}}/assets/img/dia.jpg)
+
+Fast Foods mais rápidas: 
+
+• Otimização no serviço de Drive Thru: monitoramento de algumas unidades através de faixas e mudança de recursos de menu; 
+• Se a fila estiver grande, itens que podem ser rapidamente preparados e servidos serão exibidos nas telas; 
+• Caso a fila esteja relativamente curta, os recursos exibirão itens do menu que demoram mais tempo para serem preparados.
+
+
+Self-service Beer: 
+
+• Uma empresa israelense chamada Weissberger permite o auto-atendimento de cerveja através de dois equipamentos: um “medidor de fluxo” nos barris do bar e um roteador que coleta dados de fluxo e o envia para o computador; 
+• Assim é possível realizar atividades como permitir que os clientes peguem sua própria cerveja como um self-service e tudo que for consumido é automaticamente adicionado à sua conta por meio de um cartão magnético; 
+• Além disso, é possível analisar quais cervejas estão sendo mais vendidas de acordo com horários e dias da semana, além de entender o comportamento dos clientes e automatizar seu serviço.
+
+Consumidores decidem o menu: 
+
+• Estratégia de pedir para que os clientes “ajudem a decidir o próximo sabor” é utilizada por diversas marcas de alimentos e bebidas como Doritos; 
+• Além disso, é possível analisar em qual momento do dia determinados sabores são mais consumidos e então utilizar campanhas de marketing específicas para levar os clientes ao local no momento certo.
+
+
+O setor financeiro está relacionado a todos os outros da empresa e a visualização de seus números é fundamental para verificar a saúde do negócio. É o caso do setor de vendas, que geralmente desconhece o custo de produção para cada um dos itens. Ou do marketing, que nem sempre sabe qual mercadoria tem menor margem de lucro para empregar esforços naquelas que trazem mais lucratividade.
+
+
+Como extrair valor desses dados?
+
+Gerar vantagem competitiva para o negócio
+>O big data permite que você reúna dados de mídias sociais, visitas da web, registros de chamadas e outras fontes para aprimorar a experiência de interação e maximizar o valor fornecido. 
+Oferecer produtos e serviços personalizados	
+>Com o big data, você pode analisar e avaliar a produção, os comentários e as devoluções de clientes, assim como outros fatores para reduzir interrupções e antecipar demandas futuras. 
+Aumentar a fidelização e satisfação dos clientes	
+>O big data pode ajudar você a inovar, estudando interdependências entre seres humanos, instituições, entidades e processos e, em seguida, determinando novas maneiras de usar esses insights. 
+
+Para trabalhar processamento de muitos dados em tempo real, tem se usado bancos NoSQL, que permitem alto desempenho e recuperação baseada em índice.
+
+Para saber mais acesse, https://aws.amazon.com/pt/big-data/getting-started/.
